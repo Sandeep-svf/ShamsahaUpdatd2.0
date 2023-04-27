@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ShamsahaUpdatd2.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="talk_now">Talk / Chat Now</string>
+    <string name="english">English</string>
+    <string name="arbic">أربيك</string>
+    <string name="chat">Chat</string>
+    <string name="internet_call">Internet Call</string>
+    <string name="celluler_call">Cellular Call</string>
 </resources>

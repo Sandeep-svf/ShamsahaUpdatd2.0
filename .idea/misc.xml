@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/drawable/custom_card_view_radious_chat.xml" value="0.22552083333333334" />
         <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/drawable/custom_card_view_radious_dashboard.xml" value="0.18518518518518517" />
         <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/drawable/custom_layout_purple_dashboard.xml" value="0.7142857142857143" />
         <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/drawable/custom_layout_yello_dashboard.xml" value="0.18518518518518517" />
-        <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/layout/activity_dashboard.xml" value="0.5" />
+        <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/layout/fragment_chat.xml" value="0.22" />
+        <entry key="..\:/Users/dmin/AndroidStudioProjects/ShamsahaUpdatd20/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
       </map>
     </option>
   </component>
@@ -15,12 +18,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
-  </component>
-  <component name="VisualizationToolProject">
-    <option name="state">
-      <ProjectState>
-        <option name="scale" value="0.5" />
-      </ProjectState>
-    </option>
   </component>
 </project>

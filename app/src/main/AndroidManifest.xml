@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShamsahaUpdatd20" >
         <activity
-            android:name=".dashboard.DashboardActivity"
+            android:name="com.sam.shamsahaupdatd20.victim.dashboard.DashboardActivity"
             android:exported="true" >
 
             <intent-filter>
