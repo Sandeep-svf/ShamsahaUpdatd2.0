@@ -12,4 +12,5 @@
     <color name="pick_them">#E54184</color>
     <color name="purple_them">#5E5684</color>
     <color name="yellow_them">#FFC500</color>
+    <color name="hint_color">#C1BDBE</color>
 </resources>

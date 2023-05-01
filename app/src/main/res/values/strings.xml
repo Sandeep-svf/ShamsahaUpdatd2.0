@@ -8,4 +8,14 @@
     <string name="chat">Chat</string>
     <string name="internet_call">Internet Call</string>
     <string name="celluler_call">Cellular Call</string>
+    <string name="get_in_touch">Get in touch.</string>
+    <string name="contact_welcome_text">Thank you for your interest in Shamsaha and out work in empowering women and girls.</string>
+    <string name="name">full name</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="i_have_read">I have read and accept privacy policy.</string>
+    <string name="send">Send</string>
+    <string name="contact">Contact</string>
 </resources>

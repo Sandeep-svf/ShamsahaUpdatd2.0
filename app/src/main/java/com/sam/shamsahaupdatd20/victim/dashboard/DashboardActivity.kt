@@ -31,6 +31,12 @@ class DashboardActivity : AppCompatActivity() {
         })
 
 
+        binding.menuVictimLayout.setOnClickListener(View.OnClickListener {
+
+
+        })
+
+
 
     }
 }
